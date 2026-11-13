@@ -8,7 +8,7 @@ Someone in my family fell for the "bank calling you" scam: a person posing as th
 
 The score doesn't come from asking an AI "is this a scam?". It comes from checks that can be pointed at: this domain is one letter off from the bank's, this message asks for your token, this Pix key belongs to a person while the message speaks as a company. The AI part, when it comes, explains those findings; it doesn't make them up.
 
-Work in progress. What works today:
+Paused since November 2026, after the first stage. What works today is the part below: telling when a domain is dressed up as a brand.
 
 ## Brand impersonation
 
